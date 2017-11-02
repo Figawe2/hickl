@@ -1,0 +1,36 @@
+mat_monitorgamma_tv_enabled 1
+
+bind j sm_admin
+bind enter messagemode
+bind y "say !trikz"
+bind z sm_restart
+bind x sm_bonus
+
+bind KP_INS spectate
+bind KP_END "unbind mouse1; unbind mouse2"
+bind KP_DOWNARROW "bind mouse1 +attack; bind mouse2 +attack2"
+bind KP_PGDN kill
+bind KP_LEFTARROW 
+bind KP_5
+bind KP_RIGHTARROW
+bind KP_HOME "net_graph 1"
+bind KP_UPARROW "net_graph 0"
+bind KP_PGUP
+bind KP_SLASH sm_rtv
+bind KP_MULTIPLY 
+bind KP_MINUS enemydown
+bind KP_PLUS
+bind KP_ENTER 
+bind KP_DEL snd_restart
+
+bind MWHEELDOWN +jump
+bind MWHEELDOWN +attack
+
+bind F1 roger
+bind F2 negative
+bind F3 needbackup
+bind F4 enemyspot
+bind mouse3 go
+
+bind z sm_tele; bind x sm_saveloc
+bind z sm_r; bind x sm_b
